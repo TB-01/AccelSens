@@ -1,0 +1,308 @@
+Removed Pin From Net: NetName=+3V3 Pin=B?-7
+Removed Pin From Net: NetName=+3V3 Pin=C?-2
+Removed Pin From Net: NetName=+3V3 Pin=L?-1
+Removed Pin From Net: NetName=+3V3_RF Pin=L?-2
+Removed Pin From Net: NetName=+3V3 Pin=S?-1
+Removed Pin From Net: NetName=+3V3 Pin=S?-2
+Added Component: Designator=C?(WCAP-CSGP_0805_L2W1.25H0.8_Reflow)
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Multilayer Ceramic Chip Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ceramic Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/885012207016?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/885012207016?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "885012207016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "5GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "885012207016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WCAP-CSGP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q Factor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "WCAP-CSGP.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "X7R0805104K010DFCT10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=C?(WCAP-CSGP_1206_L3.2W1.6H1.6)
+Add component (AddParameter): Name = "Capacitance Tolerance"; Value = "+/-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Multilayer Ceramic Chip Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ceramic Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/885012208018?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/885012208018?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "885012208018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "0.01GOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "885012208018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WCAP-CSGP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q Factor"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage (DC)"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "WCAP-CSGP.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "X7R1206106K010DFCT10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.6mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(MOLEX_2171790001)
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/217179-0001/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "2171790001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "217179-0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/217179-0001/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "2171790001.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(WRIS-RSKS_0603_Reflow)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560112116031?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560112116031?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "560112116031"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Limiting Element Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560112116031"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-RSKS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "WRIS-RSKS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance Max"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance Min"; Value = "-100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(WRIS-RSKS_0603_Reflow)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560112116031?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560112116031?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "560112116031"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Limiting Element Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560112116031"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-RSKS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "WRIS-RSKS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance Max"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance Min"; Value = "-100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X60N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RC0805JR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805JR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RC0805JR-075K1L.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X60N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RC0805JR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805JR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RC0805JR-075K1L.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X60N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RC0805JR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805JR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RC0805JR-075K1L.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X60N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RC0805JR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805JR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RC0805JR-075K1L.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC2012X60N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "RC0805JR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805JR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "RC0805JR-075K1L.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found USON8_4X3_UU_WIN
+Added Component: Designator=U?(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SOT-23-6 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "USBLC6-2SC6.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=J?-A1B12
+Added Pin To Net: NetName=GND Pin=J?-B1A12
+Added Pin To Net: NetName=+3V3_RF Pin=L?-1
+Added Pin To Net: NetName=+3V3 Pin=L?-2
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=+3V3 Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=U?-4
+Add Pin To Net: Unknown Pin: Pin U?-9
+Add Pin To Net: Unknown Pin: Pin U?-10
+Change Net Name : Old Net Name=XTAL_N New Net Name=NetB?_29
+Change Net Name : Old Net Name=XTAL_P New Net Name=NetB?_30
+Added Pin To Net: NetName=+VBUS Pin=J?-A4B9
+Added Pin To Net: NetName=+VBUS Pin=J?-B4A9
+Added Pin To Net: NetName=+VBUS Pin=U?-5
+Added Net: Name=+VBUS
+Added Pin To Net: NetName=+VCC_SPI Pin=B?-18
+Added Pin To Net: NetName=+VCC_SPI Pin=C?-2
+Added Pin To Net: NetName=+VCC_SPI Pin=C?-2
+Added Net: Name=+VCC_SPI
+Added Pin To Net: NetName=FSPI CLK Pin=B?-12
+Added Net: Name=FSPI CLK
+Added Pin To Net: NetName=FSPI D Pin=B?-13
+Added Net: Name=FSPI D
+Added Pin To Net: NetName=FSPI NCS2 Pin=B?-14
+Added Pin To Net: NetName=FSPI NCS2 Pin=R?-2
+Added Net: Name=FSPI NCS2
+Added Pin To Net: NetName=FSPI NCS Pin=B?-16
+Added Net: Name=FSPI NCS
+Added Pin To Net: NetName=FSPI Q Pin=B?-6
+Added Pin To Net: NetName=FSPI Q Pin=R?-2
+Added Net: Name=FSPI Q
+Added Pin To Net: NetName=INT ACC Pin=B?-10
+Added Net: Name=INT ACC
+Added Pin To Net: NetName=INT GYR GPIO9 Pin=B?-15
+Added Net: Name=INT GYR GPIO9
+Added Pin To Net: NetName=LED A Pin=B?-8
+Added Net: Name=LED A
+Added Pin To Net: NetName=LED B Pin=B?-9
+Added Net: Name=LED B
+Added Pin To Net: NetName=MCU UART0 RX Pin=B?-27
+Added Pin To Net: NetName=MCU UART0 RX Pin=R?-1
+Added Net: Name=MCU UART0 RX
+Added Pin To Net: NetName=MCU UART0 TX Pin=B?-28
+Added Pin To Net: NetName=MCU UART0 TX Pin=R?-1
+Added Net: Name=MCU UART0 TX
+Added Pin To Net: NetName=NetB?_7 Pin=B?-7
+Added Pin To Net: NetName=NetB?_7 Pin=C?-2
+Added Pin To Net: NetName=NetB?_7 Pin=R?-2
+Added Pin To Net: NetName=NetB?_7 Pin=S?-1
+Added Pin To Net: NetName=NetB?_7 Pin=S?-2
+Added Net: Name=NetB?_7
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Pin To Net: NetName=NetJ?_A5 Pin=R?-2
+Added Net: Name=NetJ?_A5
+Added Pin To Net: NetName=NetJ?_A6 Pin=J?-A6
+Added Pin To Net: NetName=NetJ?_A6 Pin=J?-B6
+Added Pin To Net: NetName=NetJ?_A6 Pin=U?-6
+Added Net: Name=NetJ?_A6
+Added Pin To Net: NetName=NetJ?_A7 Pin=J?-A7
+Added Pin To Net: NetName=NetJ?_A7 Pin=J?-B7
+Added Pin To Net: NetName=NetJ?_A7 Pin=U?-4
+Added Net: Name=NetJ?_A7
+Added Pin To Net: NetName=NetJ?_B5 Pin=J?-B5
+Added Pin To Net: NetName=NetJ?_B5 Pin=R?-2
+Added Net: Name=NetJ?_B5
+Added Pin To Net: NetName=SPI CLK Pin=B?-22
+Added Pin To Net: NetName=SPI CLK Pin=U?-6
+Added Net: Name=SPI CLK
+Added Pin To Net: NetName=SPI DI Pin=B?-23
+Added Pin To Net: NetName=SPI DI Pin=U?-5
+Added Net: Name=SPI DI
+Added Pin To Net: NetName=SPI DO Pin=B?-24
+Added Pin To Net: NetName=SPI DO Pin=U?-2
+Added Net: Name=SPI DO
+Added Pin To Net: NetName=SPI NCS Pin=B?-21
+Added Pin To Net: NetName=SPI NCS Pin=U?-1
+Added Net: Name=SPI NCS
+Added Pin To Net: NetName=SPI NHLD Pin=B?-19
+Added Net: Name=SPI NHLD
+Added Pin To Net: NetName=SPI NWP Pin=B?-20
+Added Pin To Net: NetName=SPI NWP Pin=U?-3
+Added Net: Name=SPI NWP
+Added Pin To Net: NetName=UART0 RX Pin=R?-2
+Added Net: Name=UART0 RX
+Added Pin To Net: NetName=UART0 TX Pin=R?-2
+Added Net: Name=UART0 TX
+Added Member To Class: ClassName=Main Member=Component C? 885012008037
+Added Member To Class: ClassName=Main Member=Component C? 885012207016
+Added Member To Class: ClassName=Main Member=Component C? 885012207016
+Added Member To Class: ClassName=Main Member=Component C? 885012207016
+Added Member To Class: ClassName=Main Member=Component C? 885012207016
+Added Member To Class: ClassName=Main Member=Component C? 885012208018
+Added Member To Class: ClassName=Main Member=Component C? 885012208018
+Added Member To Class: ClassName=Main Member=Component C? 885012008037
+Added Member To Class: ClassName=Main Member=Component C? 885012207016
+Added Member To Class: ClassName=Main Member=Component C? 885012207016
+Added Member To Class: ClassName=Main Member=Component C? 885012207016
+Added Member To Class: ClassName=Main Member=Component J? 2171790001
+Added Member To Class: ClassName=Main Member=Component R? RC0805JR-075K1L
+Added Member To Class: ClassName=Main Member=Component R? 560112116031
+Added Member To Class: ClassName=Main Member=Component R? RC0805JR-075K1L
+Added Member To Class: ClassName=Main Member=Component R? RC0805JR-075K1L
+Added Member To Class: ClassName=Main Member=Component R? RC0805JR-075K1L
+Added Member To Class: ClassName=Main Member=Component R? RC0805JR-075K1L
+Added Member To Class: ClassName=Main Member=Component R? 560112116043
+Added Member To Class: ClassName=Main Member=Component U? W25Q16JVUUIQ TR
+Added Member To Class: ClassName=Main Member=Component U? USBLC6-2SC6
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

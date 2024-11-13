@@ -1,0 +1,19 @@
+Remove Pin=B1-8 From Net=LED A
+Remove Pin=B1-9 From Net=LED B
+Remove Pin=B1-10 From Net=INT ACC
+Remove Pin=B1-12 From Net=FSPI CLK
+Remove Pin=B1-13 From Net=FSPI D
+Remove Pin=B1-15 From Net=INT GYR GPIO9
+Remove Pin=B1-16 From Net=FSPI NCS
+Remove Pin=D2-2 From Net=LED A
+Remove Pin=D3-2 From Net=LED B
+Remove Pin=J1-2 From Net=FSPI NCS2
+Remove Pin=J1-3 From Net=FSPI D
+Remove Pin=J1-5 From Net=FSPI CLK
+Remove Pin=J1-7 From Net=FSPI Q
+Remove Pin=MT1-1 From Net=FSPI Q
+Remove Pin=MT1-4 From Net=INT ACC
+Remove Pin=MT1-9 From Net=INT GYR GPIO9
+Remove Pin=MT1-12 From Net=FSPI NCS
+Remove Pin=MT1-13 From Net=FSPI CLK
+Remove Pin=MT1-14 From Net=FSPI D

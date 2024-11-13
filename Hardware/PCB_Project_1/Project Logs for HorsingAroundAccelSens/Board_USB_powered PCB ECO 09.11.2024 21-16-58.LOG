@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND Pin=J2-A1B12
+Removed Pin From Net: NetName=+VBUS Pin=J2-A4B9
+Removed Pin From Net: NetName=USB_D_P Pin=J2-A6
+Removed Pin From Net: NetName=USB_D_N Pin=J2-A7
+Removed Pin From Net: NetName=GND Pin=J2-B1A12
+Removed Pin From Net: NetName=+VBUS Pin=J2-B4A9
+Removed Pin From Net: NetName=USB_D_P Pin=J2-B6
+Removed Pin From Net: NetName=USB_D_N Pin=J2-B7
+Removed Member From Class: ClassName=Main Member=J2
+Added Component: Designator=J?(MOLEX_2171790001)
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/217179-0001/Molex/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "2171790001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "217179-0001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/217179-0001/Molex/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "2171790001.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J?-A1B12
+Added Pin To Net: NetName=+VBUS Pin=J?-A4B9
+Added Pin To Net: NetName=USB_D_P Pin=J?-A6
+Added Pin To Net: NetName=USB_D_N Pin=J?-A7
+Added Pin To Net: NetName=GND Pin=J?-B1A12
+Added Pin To Net: NetName=+VBUS Pin=J?-B4A9
+Added Pin To Net: NetName=USB_D_P Pin=J?-B6
+Added Pin To Net: NetName=USB_D_N Pin=J?-B7
+Added Pin To Net: NetName=NetJ?_A5 Pin=J?-A5
+Added Pin To Net: NetName=NetJ?_A5 Pin=R4-2
+Added Net: Name=NetJ?_A5
+Added Pin To Net: NetName=NetJ?_B5 Pin=J?-B5
+Added Pin To Net: NetName=NetJ?_B5 Pin=R5-2
+Added Net: Name=NetJ?_B5
+Added Member To Class: ClassName=Main Member=Component J? 2171790001

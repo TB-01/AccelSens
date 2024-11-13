@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=FSPI Q Pin=B1-6
+Removed Pin From Net: NetName=NetB1_7 Pin=B1-7
+Removed Pin From Net: NetName=LED A Pin=B1-8
+Removed Pin From Net: NetName=LED B Pin=B1-9
+Removed Pin From Net: NetName=ACCEL_INT Pin=B1-10
+Removed Pin From Net: NetName=+3V3 Pin=B1-11
+Removed Pin From Net: NetName=MCU_FSPICLK Pin=B1-12
+Removed Pin From Net: NetName=FSPI_D Pin=B1-13
+Removed Pin From Net: NetName=FSPI_NCS2 Pin=B1-14
+Removed Pin From Net: NetName=INT GYR GPIO9 Pin=B1-15
+Removed Pin From Net: NetName=FSPI_NCS Pin=B1-16
+Removed Pin From Net: NetName=+3V3 Pin=B1-17
+Removed Pin From Net: NetName=+VCC_SPI Pin=B1-18
+Removed Pin From Net: NetName=SPI NHLD Pin=B1-19
+Removed Pin From Net: NetName=SPI NWP Pin=B1-20
+Removed Pin From Net: NetName=SPI NCS Pin=B1-21
+Removed Pin From Net: NetName=SPI CLK Pin=B1-22
+Removed Pin From Net: NetName=SPI DI Pin=B1-23
+Removed Pin From Net: NetName=SPI DO Pin=B1-24
+Removed Pin From Net: NetName=MCU_USB_D_N Pin=B1-25
+Removed Pin From Net: NetName=MCU_USB_D_P Pin=B1-29
+Removed Pin From Net: NetName=+3V3 Pin=B1-31
+Removed Pin From Net: NetName=+3V3 Pin=B1-32
+Removed Pin From Net: NetName=GND Pin=B1-33
+Removed Member From Class: ClassName=Main Member=B1
+Added Component: Designator=B?(QFN50P500X500X90-33N-D)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "ESP32-C3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-C3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "356-ESP32-C3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-C3?qs=iLbezkQI%252BsiMXe7tMG%252Bo%2FA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ESP32-C3.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FSPI Q Pin=B?-6
+Added Pin To Net: NetName=NetB1_7 Pin=B?-7
+Added Pin To Net: NetName=LED A Pin=B?-8
+Added Pin To Net: NetName=LED B Pin=B?-9
+Added Pin To Net: NetName=ACCEL_INT Pin=B?-10
+Added Pin To Net: NetName=+3V3 Pin=B?-11
+Added Pin To Net: NetName=MCU_FSPICLK Pin=B?-12
+Added Pin To Net: NetName=FSPI_D Pin=B?-13
+Added Pin To Net: NetName=FSPI_NCS2 Pin=B?-14
+Added Pin To Net: NetName=INT GYR GPIO9 Pin=B?-15
+Added Pin To Net: NetName=FSPI_NCS Pin=B?-16
+Added Pin To Net: NetName=+3V3 Pin=B?-17
+Added Pin To Net: NetName=+VCC_SPI Pin=B?-18
+Added Pin To Net: NetName=SPI NHLD Pin=B?-19
+Added Pin To Net: NetName=SPI NWP Pin=B?-20
+Added Pin To Net: NetName=SPI NCS Pin=B?-21
+Added Pin To Net: NetName=SPI CLK Pin=B?-22
+Added Pin To Net: NetName=SPI DI Pin=B?-23
+Added Pin To Net: NetName=SPI DO Pin=B?-24
+Added Pin To Net: NetName=MCU_USB_D_N Pin=B?-25
+Added Pin To Net: NetName=MCU_USB_D_P Pin=B?-29
+Added Pin To Net: NetName=+3V3 Pin=B?-31
+Added Pin To Net: NetName=+3V3 Pin=B?-32
+Added Pin To Net: NetName=GND Pin=B?-33
+Change Net Name : Old Net Name=NetB1_7 New Net Name=NetB?_7
+Added Pin To Net: NetName=NetB?_26 Pin=B?-26
+Added Pin To Net: NetName=NetB?_26 Pin=U1-1
+Added Net: Name=NetB?_26
+Added Pin To Net: NetName=NetB?_30 Pin=B?-30
+Added Pin To Net: NetName=NetB?_30 Pin=R1-1
+Added Net: Name=NetB?_30
+Added Member To Class: ClassName=Main Member=Component B? ESP32-C3

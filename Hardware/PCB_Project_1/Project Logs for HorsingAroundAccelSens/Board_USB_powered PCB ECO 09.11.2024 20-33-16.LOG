@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=+3V3 Pin=R10-1
+Removed Member From Class: ClassName=Main Member=R10
+Added Component: Designator=R2(WRIS-RSKS_0603_Reflow)
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Thick Film Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/560112116043?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/560112116043?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "560112116043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Limiting Element Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "560112116043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WRIS-RSKS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "WRIS-RSKS.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance Max"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance Min"; Value = "-100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=INT GYR GPIO9 Pin=B1-15
+Added Pin To Net: NetName=FSPI Q Pin=J1-7
+Added Pin To Net: NetName=FSPI Q Pin=MT1-1
+Added Pin To Net: NetName=INT GYR GPIO9 Pin=MT1-9
+Change Net Name : Old Net Name=NetB1_25 New Net Name=MCU_USB_D_N
+Change Net Name : Old Net Name=NetB1_29 New Net Name=MCU_USB_D_P
+Change Net Name : Old Net Name=NetJ2_A6 New Net Name=USB_D_P
+Change Net Name : Old Net Name=NetJ2_A7 New Net Name=USB_D_N
+Added Pin To Net: NetName=ACCEL_INT Pin=B1-10
+Added Pin To Net: NetName=ACCEL_INT Pin=MT1-4
+Added Net: Name=ACCEL_INT
+Added Pin To Net: NetName=FSPI_CLK Pin=J1-5
+Added Pin To Net: NetName=FSPI_CLK Pin=MT1-13
+Added Pin To Net: NetName=FSPI_CLK Pin=R2-1
+Added Net: Name=FSPI_CLK
+Added Pin To Net: NetName=FSPI_D Pin=B1-13
+Added Pin To Net: NetName=FSPI_D Pin=J1-3
+Added Pin To Net: NetName=FSPI_D Pin=MT1-14
+Added Net: Name=FSPI_D
+Added Pin To Net: NetName=FSPI_NCS2 Pin=B1-14
+Added Pin To Net: NetName=FSPI_NCS2 Pin=J1-2
+Added Net: Name=FSPI_NCS2
+Added Pin To Net: NetName=FSPI_NCS Pin=B1-16
+Added Pin To Net: NetName=FSPI_NCS Pin=MT1-12
+Added Net: Name=FSPI_NCS
+Added Pin To Net: NetName=LED A Pin=B1-8
+Added Pin To Net: NetName=LED A Pin=D2-2
+Added Net: Name=LED A
+Added Pin To Net: NetName=LED B Pin=B1-9
+Added Pin To Net: NetName=LED B Pin=D3-2
+Added Net: Name=LED B
+Added Pin To Net: NetName=MCU_FSPICLK Pin=B1-12
+Added Pin To Net: NetName=MCU_FSPICLK Pin=R2-2
+Added Net: Name=MCU_FSPICLK
+Added Differential Pair: Name=MCU_USB_D
+Added Differential Pair: Name=USB_D
+Added Member To Class: ClassName=Main Member=Component R2 560112116043
